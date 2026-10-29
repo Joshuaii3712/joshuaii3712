@@ -1,7 +1,7 @@
 # Hi, I'm Younggee Chin 👋
 
 **AI Engineer & HCI Researcher**
-Interested in LLMs, sLLMs, chatbots, and agentic chatbots, with a focus on building AI systems that work well for people.
+Interested in LLMs, small language models (sLLMs), and agentic AI, with a focus on designing and evaluating human-centered AI systems for personalization, behavior change, and well-being.
 
 ---
 
